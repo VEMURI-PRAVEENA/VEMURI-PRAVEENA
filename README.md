@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @VEMURI-PRAVEENA
+- 👀 I’m interested in AI and ML.
+- 🌱 I’m currently learning [insert what you're currently learning, e.g., TensorFlow, Python].
+- 💞️ I’m looking to collaborate on projects related to AI, ML, or data analysis.
+- 📫 How to reach me: [Email](mailto:praveena.22bce7873@vitapstudent.ac.in) | [LinkedIn](https://www.linkedin.com/in/vemuri-praveena-22m26f11c?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love coding while sipping on my favorite chai! ☕💻 It keeps me energized and inspired! 
